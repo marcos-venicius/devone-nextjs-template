@@ -15,3 +15,11 @@ Run the project
 ```console
 npm run dev
 ```
+
+## Installed Libs
+
+- [tailwind](https://tailwindcss.com/)
+- [lucide-react](https://lucide.dev/)
+- [zod](https://zod.dev/)
+- [react-hook-form](https://react-hook-form.com/)
+- [@hookform/resolvers](https://github.com/react-hook-form/resolvers)
