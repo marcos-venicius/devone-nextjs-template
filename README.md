@@ -18,6 +18,7 @@ npm run dev
 
 ## Installed Libs
 
+- [axios](https://axios-http.com/)
 - [tailwind](https://tailwindcss.com/)
 - [lucide-react](https://lucide.dev/)
 - [zod](https://zod.dev/)

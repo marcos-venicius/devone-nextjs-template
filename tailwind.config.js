@@ -1,12 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ['class'],
-  content: [
-    './pages/**/*.{ts,tsx}',
-    './components/**/*.{ts,tsx}',
-    './app/**/*.{ts,tsx}',
-    './src/**/*.{ts,tsx}'
-  ],
+  content: ['./pages/**/*.{ts,tsx}', './components/**/*.{ts,tsx}', './app/**/*.{ts,tsx}', './src/**/*.{ts,tsx}'],
   prefix: '',
   theme: {
     container: {
@@ -17,9 +12,6 @@ module.exports = {
       }
     },
     extend: {
-      backgroundColor: {
-        'devone-background': '#0B0B0D'
-      },
       colors: {
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
