@@ -1,22 +1,31 @@
-# DevOne's NextJS project template
+# DevOne NextJS template
 
-See more information about the [creator](https://marcosvenicius.com.br)
+<div align="center">
+  <img src="./public/m.png" align="center" />
+</div>
 
-## Running
+<hr />
+<br />
 
-Install all dependencies
+<p align="center">
+  <em>All done, just clone and use it!</em>
+</p>
 
-```console
-npm ci
+### Configure
+
+Install dependencies
+
+```bash
+npm install --frozen-lockfile
 ```
 
 Run the project
 
-```console
+```bash
 npm run dev
 ```
 
-## Installed Libs
+### Installed libs
 
 - [axios](https://axios-http.com/)
 - [tailwind](https://tailwindcss.com/)
@@ -24,3 +33,4 @@ npm run dev
 - [zod](https://zod.dev/)
 - [react-hook-form](https://react-hook-form.com/)
 - [@hookform/resolvers](https://github.com/react-hook-form/resolvers)
+- [shadcn](https://ui.shadcn.com)

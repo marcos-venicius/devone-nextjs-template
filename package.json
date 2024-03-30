@@ -2,9 +2,8 @@
   "name": "@devone/base-nextjs",
   "version": "1.0.0",
   "private": true,
-  "description": "The base DevOne's nextjs project",
   "engines": {
-    "node": "18.18.2"
+    "node": "20.11.1"
   },
   "scripts": {
     "dev": "next dev",
@@ -15,11 +14,12 @@
   "author": {
     "email": "marcosdevelopment.business@gmail.com",
     "name": "Marcos Venicius",
-    "url": "https://marcosvenicius.com.br"
+    "url": "https://github.com/marcos-venicius"
   },
   "license": "MIT",
   "dependencies": {
     "@hookform/resolvers": "3.3.4",
+    "@radix-ui/react-slot": "^1.0.2",
     "axios": "1.6.5",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
